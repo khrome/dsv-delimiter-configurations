@@ -1,0 +1,9 @@
+{
+  "name": "dsv-delimiter-configurations",
+  "version": "0.0.1",
+  "main": "dsv-delimiter-configurations.js",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
